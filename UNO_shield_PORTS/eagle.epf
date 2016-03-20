@@ -1,0 +1,43 @@
+[Eagle]
+Version="07 05 00"
+Platform="Mac OS X"
+Serial="62191E841E-LSR-WLM-1EL"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/Arduino.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/Atmel.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/Molex_Batch_1.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Aesthetics.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-AnalogIC.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Boards.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Capacitors.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Connectors.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-DigitalIC.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-DiscreteSemi.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Displays.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Electromechanical.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-FreqCtrl.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-GeekAmmo.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-LED.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-LilyPad-Wearables.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Passives.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-PowerIC.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-RF.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Resistors.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Retired.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/SparkFun-Sensors.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/Sparkfun-User-Submitted.lbr"
+UsedLibrary="/Applications/EAGLE-7.5.0/lbr/adafruit.lbr"
+
+[Win_1]
+Type="Control Panel"
+Loc="1 23 772 985"
+State=2
+Number=0
+
+[Desktop]
+Screen="3200 1080"
+Window="Win_1"
